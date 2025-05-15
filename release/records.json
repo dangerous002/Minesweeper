@@ -1,0 +1,20 @@
+{
+  "Light": {
+    "Time": 6210,
+    "ThreeBV": 17,
+    "ThreeBVPerSecond": 1.8,
+    "IOE": 65.379999999999995
+  },
+  "Medium": {
+    "Time": 2147483647,
+    "ThreeBV": 0,
+    "ThreeBVPerSecond": 0,
+    "IOE": 0
+  },
+  "Hard": {
+    "Time": 2147483647,
+    "ThreeBV": 0,
+    "ThreeBVPerSecond": 0,
+    "IOE": 0
+  }
+}

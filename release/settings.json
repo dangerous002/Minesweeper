@@ -1,0 +1,9 @@
+{
+  "SoundOn": false,
+  "Difficulty": "Light",
+  "MouseBindings": {
+    "Reveal": "Left",
+    "Question": "Middle",
+    "Flag": "Right"
+  }
+}
